@@ -1,4 +1,4 @@
-# texmaker-themes
+# Texmaker themes
 
 
 
